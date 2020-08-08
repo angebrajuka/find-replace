@@ -1,0 +1,4 @@
+north_ south
+east_ west
+south_ north
+west_ east
